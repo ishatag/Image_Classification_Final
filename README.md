@@ -70,7 +70,7 @@ guesstheanimal.jpg
 
 Confidence: ~67% 
 
-➡️ These tests demonstrate the model’s ability to generalize and classify previously unseen images with high confidence.
+➡️ These tests demonstrate the model’s ability to generalize and classify previously unseen images with confidence.
 
 
 
