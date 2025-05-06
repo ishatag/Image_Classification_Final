@@ -1,7 +1,7 @@
 # Image_Classification_Final: Cats vs Dogs (CNN using Transfer Learning)
 A deep learning project that classifies images as either a cat 🐱 or a dog 🐶 using Convolutional Neural Networks (CNNs) with Transfer Learning via the VGG16 model.
 
-📌Project Objective
+📌Project Objective:
 The goal of this project is to build a binary image classifier that distinguishes between cats and dogs with high accuracy. This demonstrates my skills in:
 
 1. Working with image data
@@ -42,7 +42,7 @@ d)Metrics tracked: Accuracy
  
 5. Evaluation & Prediction:
 a)Evaluated on validation dataset
-b)Uploaded external images (e.g., guesswho.jpg and guessthe animal) to test real-world predictions
+b)Uploaded external images (e.g., guesswho.jpg and guessthe animal.jpg) to test real-world predictions
 
 📈 Results
 | Metric                         | Value                                                         |
@@ -55,6 +55,7 @@ b)Uploaded external images (e.g., guesswho.jpg and guessthe animal) to test real
 
 
 🖼️ Real-World Prediction Examples
+
 Uploaded images:
 
 guesswho.jpg
