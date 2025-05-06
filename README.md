@@ -47,7 +47,7 @@ b)Uploaded external images (e.g., guesswho.jpg and guessthe animal) to test real
 📈 Results
 | Metric                         | Value                                                         |
 | ------------------------------------- | ------------------------------------------------------ |
-| **Validation Accuracy**               | \~95%                                                  |
+| **Validation Accuracy**               | \81%                                                  |
 | **Validation Loss**                   | Low and stable (did not overfit)                       |
 | **Prediction on guesswho.jpg**        | ✅ Correctly predicted: `Dog`                         | 
 | **Prediction on guesstheanimal.jpg**  | ✅ Correctly predicted: `Cat`                         |
